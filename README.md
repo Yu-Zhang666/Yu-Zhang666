@@ -1,6 +1,6 @@
-### Hello, I'm Xiaoman 👋
+### Hello, I'm Zhangyu 👋
 
-[视频教程可以观看哔哩哔哩](https://space.bilibili.com/99210573?spm_id_from=333.1007.0.0)
+掘金地址：https://juejin.cn/user/620537392934711
 
 # 💡skill
 
@@ -32,14 +32,12 @@
 <img width='50' height='50' title='express' style='margin-left:15px;' src='skill/express.png' />
 <img width='70' height='50' title='nest' style='margin-left:15px;' src='skill/nest.jpg' />
 <img width='50' height='50' title='mysql' style='margin-left:15px;' src='skill/mysql.png' />
-<img width='100' height='50' title='typeOrm' style='margin-left:15px;' src='skill/typeOrm.png' />
 <img width='80' height='50' title='python' style='margin-left:15px;' src='skill/python.png' />
 <img width='80' height='50' title='java' style='margin-left:15px;' src='skill/java.png' />
 </div>
 
 ### 运维端
+
 <div style='display:flex'>
 <img width='70' height='50' title='nginx' style='margin-left:15px;' src='skill/nginx.png' />
-<img width='90' height='40' title='linux' style='margin-left:15px;' src='skill/linux.png' />
-<img width='70' height='50' title='docker' style='margin-left:15px;' src='skill/docker.png' />
 </div>
